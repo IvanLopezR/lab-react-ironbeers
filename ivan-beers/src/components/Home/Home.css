@@ -1,0 +1,25 @@
+h2{
+    font-size:30px;
+}
+
+.container{
+    width: 700px;
+}
+
+.menu{
+    margin:50px;
+}
+
+.sub-container{
+    margin: -25px 30px 30px 30px;
+}
+
+.description{
+    margin-top: -25px;
+    color: #BCBCBC;
+}
+
+.link{
+    text-decoration: none;
+    color:black;
+}

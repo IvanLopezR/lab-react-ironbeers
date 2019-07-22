@@ -1,0 +1,41 @@
+.beer-pict{
+    height: 200px;
+    width: 50px;
+    margin: 30px;
+}
+
+.containerB{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-in{
+    display:flex;
+    flex-direction: row;
+    width: 500px;
+}
+
+.container-text{
+    display: flex;
+    flex-direction: column;
+}
+
+.tagline{
+    color:#A8A8A8;
+    margin-bottom: -5px;
+}
+
+.contributed{
+    font-weight: bold;
+}
+
+.name-beers{
+    margin-top: 50px;
+}
+
+.search-beer{
+    margin:50px;
+    font-size:20px;
+}

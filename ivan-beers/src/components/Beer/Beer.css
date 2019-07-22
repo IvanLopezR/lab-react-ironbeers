@@ -1,0 +1,55 @@
+.container-beer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+}
+
+.one-beer{
+    height: 400px;
+    width: 100px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.width-one{
+    width: 400px;
+}
+
+.container-pict-beer{
+    text-align: center;
+}
+
+.container-data-column{
+    display:flex;
+    flex-direction: row;
+}
+
+.attenuation{
+    text-align: right;
+    color: #a8a8a8;
+}
+
+.brewed{
+    font-weight: bold;
+}
+
+.left-info{
+    margin-right: 50px;
+}
+
+.title-beer, .attenuation{
+    margin-bottom: -10px;
+}
+
+.tagline-one, .brewed{
+    margin-bottom: 20px;
+}
+
+.description-one{
+    margin-bottom: 20px;
+}
+
+.contributed-one{
+    color: #a8a8a8;
+}

@@ -1,0 +1,22 @@
+.form-new{
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.input-form{
+    padding: 8px;
+    border-radius: 15px;
+    margin-left: 15px;
+    font-size:15px;
+}
+
+.btn-form{
+    background-color: green;
+    font-size: 20px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.btn-end{
+    text-align: end;
+}
